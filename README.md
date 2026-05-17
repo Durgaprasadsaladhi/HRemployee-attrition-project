@@ -89,4 +89,5 @@ Interactive dashboard created using Power BI to visualize:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/dashboard.png)
+Screenshot 2026-05-17 223308.png
+

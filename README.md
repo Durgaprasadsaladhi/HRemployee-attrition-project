@@ -89,5 +89,5 @@ Interactive dashboard created using Power BI to visualize:
 
 ## Dashboard Preview
 
-Screenshot 2026-05-17 223308.png
+![Dashboard](Dashboard/Screenshot%202026-05-17%20223308.png)
 
